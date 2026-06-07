@@ -1,0 +1,10 @@
+Date: 2026-06-07
+Analyste: Expert Developer
+Cible: My Application
+Artefact: application_pedagogique.apk
+Provenance: Enseignant / Projet de cours
+Hash: 8CBB9F1CF1CD19580D5B8D05AFBF70859B6F1C1A8CA6A1235DCFD4E7B4569DD1
+Versions outils:
+  - BeVigil: 2.1.0
+  - Yaazhini: 1.3.2
+Environnement: Windows 10

@@ -1,0 +1,11 @@
+# Log des commandes exécutées - 2026-06-07 16:58:00
+mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report
+Created scope.md
+Created analyse_info.txt
+gradle_build app:assembleDebug
+(Get-FileHash ...).Hash
+Copy-Item app-debug.apk to 00-scope
+Fixed MainActivity.kt warning
+Fixed AndroidManifest.xml allowBackup
+Enabled optimizations in build.gradle.kts
+Finalized reports
